@@ -1,3 +1,0 @@
-hello python my name is sai
-currently we are using a python system
-
